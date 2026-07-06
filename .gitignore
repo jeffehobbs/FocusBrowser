@@ -7,3 +7,6 @@ FocusBrowser.xcodeproj/
 signing/fb.key
 signing/fb.p12
 signing/fb.crt
+
+# Release artifact
+FocusBrowser.zip
