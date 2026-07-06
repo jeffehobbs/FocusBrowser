@@ -1,0 +1,9 @@
+build/
+FocusBrowser.xcodeproj/
+*.xcuserstate
+.DS_Store
+
+# Signing secrets — never commit the private key / cert bundle.
+signing/fb.key
+signing/fb.p12
+signing/fb.crt
